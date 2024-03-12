@@ -1,0 +1,41 @@
+
+#box{
+    height: 400px;
+    width: 450px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 400px;
+    margin-top: 100px;
+    
+}
+.tab{
+  padding: 20px;
+  box-shadow: 10px 10px 5px grey;
+   
+    
+}
+
+#one{
+    display: flex;
+    height: 60px;
+    width: 400px;
+    box-shadow: 5px 5px 5px grey
+    
+}
+input[type="button"]{
+    color:rgb(21, 34, 37);
+    background-color: rgb(133, 158, 169);
+  
+
+
+  
+
+}
+#res{
+    background-color:rgb(133, 158, 169); ;
+    
+}
+
+form{
+
+}
